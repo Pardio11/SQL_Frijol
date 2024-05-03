@@ -2,6 +2,8 @@
 
 Welcome to the front-end of the SQL Spanish Playground project! This part of the project is built with Vue.js, Tailwind CSS, and Axios to provide a user-friendly interface for interacting with the SQL Spanish Playground API.
 
+Visit [Spanish SQL](https://github.com/Pardio11/Spanish_SQL) for Backend
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
@@ -36,5 +38,3 @@ Welcome to the SQL Spanish Playground! This project provides a platform for exec
 
 - **Interactive Interface:** Provides a user-friendly interface for executing SQL commands in Spanish.
 - **Integration with Backend:** Communicates with the SQL Spanish Playground backend API to execute SQL commands and retrieve data.
-
-Visit [Spanish SQL](https://github.com/Pardio11/Spanish_SQL) for Backend
