@@ -39,4 +39,4 @@ Welcome to the SQL Spanish Playground! This project provides a platform for exec
 - **Interactive Interface:** Provides a user-friendly interface for executing SQL commands in Spanish.
 - **Integration with Backend:** Communicates with the SQL Spanish Playground backend API to execute SQL commands and retrieve data.
 ## Preview
-![Home Interface](https://github.com/Pardio11/SQL_Frijol/homePreview.png?raw=true)
+![Home Interface](https://github.com/Pardio11/SQL_Frijol/homePreview.png)
